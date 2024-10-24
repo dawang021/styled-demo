@@ -1,0 +1,24 @@
+{
+  "title": "BasicUsage Material Demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "name": "69629346-mui-v5-theming-with-emotion-mui",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.4/docs/src/pages/system/styled/BasicUsage.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@mui/system": "latest",
+    "@mui/material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  },
+  "keywords": []
+}
